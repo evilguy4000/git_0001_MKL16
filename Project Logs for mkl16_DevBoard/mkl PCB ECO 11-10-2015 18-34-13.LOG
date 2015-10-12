@@ -1,0 +1,6 @@
+Added Component: Designator=R4(0603R-0R)
+Added Component: Designator=R5(0603R-0R)
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2

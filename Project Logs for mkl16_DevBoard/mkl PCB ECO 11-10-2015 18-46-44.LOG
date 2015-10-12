@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=R4 Old DesignItemId=Passives_Resistors_0402_TBD New DesignItemId=Passives_Resistors_0603_0R
+Change Component DesignItemId : Designator=R5 Old DesignItemId=Passives_Resistors_0402_TBD New DesignItemId=Passives_Resistors_0603_0R
+Change Component Footprint: Designator=R4 Old Footprint=0402R-TBD New Footprint=0603R-0R
+Change Component Footprint: Designator=R5 Old Footprint=0402R-TBD New Footprint=0603R-0R
+Change Component Comment : Designator=R4 Old Comment=0k New Comment=0R
+Change Component Comment : Designator=R5 Old Comment=0K New Comment=0R

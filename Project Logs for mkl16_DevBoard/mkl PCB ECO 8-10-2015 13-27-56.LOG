@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetD1_A Pin=K1-USB-1
+Removed Pin From Net: NetName=NetC1_- Pin=K1-USB-4
+Added Component: Designator=K?(USB-MINI-B)
+Added Pin To Net: NetName=NetD1_A Pin=K?-1
+Added Pin To Net: NetName=NetC1_- Pin=K?-5

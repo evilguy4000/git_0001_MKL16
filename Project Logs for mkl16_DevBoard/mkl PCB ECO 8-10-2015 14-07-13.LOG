@@ -1,0 +1,36 @@
+Added Component: Designator=12mhz(3225 Quartz)
+Added Component: Designator=C?(0603C-GENERIC)
+Added Component: Designator=C?(0603C-GENERIC)
+Added Component: Designator=U?(SO16)
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=VCC3.3 Pin=U?-4
+Added Pin To Net: NetName=Net12mhz_1 Pin=12mhz-1
+Added Pin To Net: NetName=Net12mhz_1 Pin=U?-7
+Added Net: Name=Net12mhz_1
+Added Pin To Net: NetName=Net12mhz_2 Pin=12mhz-2
+Added Pin To Net: NetName=Net12mhz_2 Pin=C?-1
+Added Net: Name=Net12mhz_2
+Added Pin To Net: NetName=Net12mhz_3 Pin=12mhz-3
+Added Pin To Net: NetName=Net12mhz_3 Pin=U?-8
+Added Net: Name=Net12mhz_3
+Added Pin To Net: NetName=Net12mhz_4 Pin=12mhz-4
+Added Pin To Net: NetName=Net12mhz_4 Pin=C?-1
+Added Net: Name=Net12mhz_4
+Added Pin To Net: NetName=NetK?_2 Pin=K?-2
+Added Pin To Net: NetName=NetK?_2 Pin=U?-6
+Added Net: Name=NetK?_2
+Added Pin To Net: NetName=NetK?_3 Pin=K?-3
+Added Pin To Net: NetName=NetK?_3 Pin=U?-5
+Added Net: Name=NetK?_3
+Added Pin To Net: NetName=RXD Pin=U?-3
+Added Pin To Net: NetName=RXD Pin=µc-10
+Added Net: Name=RXD
+Added Pin To Net: NetName=TXD Pin=U?-2
+Added Pin To Net: NetName=TXD Pin=µc-9
+Added Net: Name=TXD
+Added Pin To Net: NetName=VCC Pin=D1-A
+Added Pin To Net: NetName=VCC Pin=K?-1
+Added Pin To Net: NetName=VCC Pin=U?-16
+Added Net: Name=VCC

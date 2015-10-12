@@ -1,0 +1,7 @@
+Added Component: Designator=D1(0805LED)
+Added Component: Designator=R1(0402R-GENERIC)
+Added Pin To Net: NetName=VCC3.3 Pin=D1-A
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=R1-1
+Added Net: Name=NetD1_K

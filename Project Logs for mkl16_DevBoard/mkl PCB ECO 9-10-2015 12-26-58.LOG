@@ -1,0 +1,7 @@
+Added Component: Designator=P?(HDR1X2)
+Added Pin To Net: NetName=SWD_CLK Pin=P?-2
+Added Pin To Net: NetName=SWD_CLK Pin=µc-22
+Added Net: Name=SWD_CLK
+Added Pin To Net: NetName=SWD_IO Pin=P?-1
+Added Pin To Net: NetName=SWD_IO Pin=µc-25
+Added Net: Name=SWD_IO

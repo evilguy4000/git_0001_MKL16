@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=VCC3.3 Pin=µc-13
+Added Pin To Net: NetName=GND Pin=µc-16
+Added Pin To Net: NetName=VCC3.3 Pin=µc-30
+Added Pin To Net: NetName=GND Pin=µc-31
+Added Pin To Net: NetName=GND Pin=µc-47
+Added Pin To Net: NetName=VCC3.3 Pin=µc-48

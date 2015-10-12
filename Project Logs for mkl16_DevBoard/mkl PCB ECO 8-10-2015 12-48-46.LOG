@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=µc Old Footprint=LQFP64_N New Footprint=LQFP64_L
+Added Component: Designator=C1(PANACAP-b)
+Added Component: Designator=C2(PANACAP-D-GENERIC)
+Added Component: Designator=D1(DO-213AB(MELF))
+Added Component: Designator=K1-USB(USB-B)
+Added Component: Designator=U1(MP04A_N)
+Added Pin To Net: NetName=GND Pin=C2--
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=µc-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_+ Pin=C1-+
+Added Pin To Net: NetName=NetC1_+ Pin=D1-K
+Added Pin To Net: NetName=NetC1_+ Pin=U1-3
+Added Net: Name=NetC1_+
+Added Pin To Net: NetName=NetC1_- Pin=C1--
+Added Pin To Net: NetName=NetC1_- Pin=K1-USB-4
+Added Pin To Net: NetName=NetC1_- Pin=U1-4
+Added Net: Name=NetC1_-
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=K1-USB-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=VCC3.3 Pin=C2-+
+Added Pin To Net: NetName=VCC3.3 Pin=U1-2
+Added Pin To Net: NetName=VCC3.3 Pin=µc-2
+Added Net: Name=VCC3.3
+Added Member To Class: ClassName=mkl Member=Component C1 10uF-16V
+Added Member To Class: ClassName=mkl Member=Component C2 47uF-16V
+Added Member To Class: ClassName=mkl Member=Component D1 DIODE-GENERIC
+Added Member To Class: ClassName=mkl Member=Component K1-USB Connector_USB_THT_USB-B
+Added Member To Class: ClassName=mkl Member=Component U1 LM1117MPX-3.3

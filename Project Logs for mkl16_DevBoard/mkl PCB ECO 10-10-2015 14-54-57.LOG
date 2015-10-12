@@ -1,0 +1,14 @@
+Added Component: Designator=D2(0805LED)
+Added Component: Designator=D3(0805LED)
+Added Component: Designator=R2(0603R-680K)
+Added Component: Designator=R3(0603R-680K)
+Added Pin To Net: NetName=RXD Pin=D2-K
+Added Pin To Net: NetName=TXD Pin=D3-K
+Added Pin To Net: NetName=VCC3.3 Pin=R2-2
+Added Pin To Net: NetName=VCC3.3 Pin=R3-2
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R2-1
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD3_A Pin=D3-A
+Added Pin To Net: NetName=NetD3_A Pin=R3-1
+Added Net: Name=NetD3_A

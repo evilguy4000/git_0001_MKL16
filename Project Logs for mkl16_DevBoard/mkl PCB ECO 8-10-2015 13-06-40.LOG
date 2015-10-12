@@ -1,0 +1,3 @@
+Added Component: Designator=µc(LQFP64_L)
+Added Pin To Net: NetName=VCC3.3 Pin=µc-2
+Added Pin To Net: NetName=GND Pin=µc-3
