@@ -90,7 +90,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TKSRTIFQ
 
 [Document4]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Battery_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Battery_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -107,7 +107,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Battery_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Battery_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -124,7 +124,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_CAB_Audio.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_CAB_Audio.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -141,7 +141,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_CAB_Audio.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_CAB_Audio.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -158,7 +158,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Communication_ISM.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Communication_ISM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -175,7 +175,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Communication_ISM.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Communication_ISM.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -192,7 +192,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_DB_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_DB_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -209,7 +209,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_DB_THT.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_DB_THT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -226,7 +226,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_FFC_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_FFC_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -243,7 +243,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_FFC_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_FFC_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -260,7 +260,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Headers_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Headers_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -277,7 +277,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Headers_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Headers_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -294,7 +294,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document16]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Headers_THT.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Headers_THT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -311,7 +311,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document17]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Headers_THT.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Headers_THT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -328,7 +328,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document18]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_IDC_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_IDC_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -345,7 +345,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_IDC_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_IDC_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -362,7 +362,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document20]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_IDC_THT.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_IDC_THT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -379,7 +379,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document21]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_IDC_THT.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_IDC_THT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -396,7 +396,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document22]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Power_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Power_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -413,7 +413,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document23]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Power_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Power_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -430,7 +430,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document24]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Production Connectors_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Production Connectors_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -447,7 +447,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document25]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Production Connectors_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Production Connectors_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -464,7 +464,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document26]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Production Connectors_THT.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Production Connectors_THT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -481,7 +481,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document27]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Production Connectors_THT.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Production Connectors_THT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -498,7 +498,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document28]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_RJ11_THT.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_RJ11_THT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -515,7 +515,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document29]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_RJ45_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_RJ45_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -532,7 +532,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document30]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_RJ45_THT.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_RJ45_THT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -549,7 +549,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document31]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_RJ45_THT.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_RJ45_THT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -566,7 +566,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document32]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_SD_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_SD_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -583,7 +583,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document33]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_SD_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_SD_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -600,7 +600,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document34]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Special Connectors_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Special Connectors_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -617,7 +617,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document35]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Special Connectors_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Special Connectors_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -634,7 +634,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document36]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Terminal_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Terminal_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -651,7 +651,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document37]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Terminal_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Terminal_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -668,7 +668,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document38]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Terminal_THT.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Terminal_THT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -685,7 +685,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document39]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_Terminal_THT.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_Terminal_THT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -702,7 +702,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document40]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_USB_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_USB_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -719,7 +719,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document41]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_USB_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_USB_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -736,7 +736,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document42]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_USB_THT.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_USB_THT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -753,7 +753,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document43]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_USB_THT.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_USB_THT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -770,7 +770,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document44]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_XH_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_XH_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -787,7 +787,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document45]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_XH_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_XH_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -804,7 +804,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document46]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_ZH_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_ZH_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -821,7 +821,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document47]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Connector_ZH_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Connector_ZH_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -838,7 +838,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document48]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_General Electronics_General Footprints_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_General Electronics_General Footprints_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -855,7 +855,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document49]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_General Electronics_General Footprints_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_General Electronics_General Footprints_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -872,7 +872,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document50]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_General Electronics_General Footprints_THT.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_General Electronics_General Footprints_THT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -889,7 +889,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document51]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_General Electronics_General Footprints_THT.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_General Electronics_General Footprints_THT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -906,7 +906,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document52]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Interface_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Interface_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -923,7 +923,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document53]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_LED_7Segment.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_LED_7Segment.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -940,7 +940,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document54]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_LED_7Segment.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_LED_7Segment.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -957,7 +957,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document55]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_LED_Driver.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_LED_Driver.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -974,7 +974,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document56]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_LED_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_LED_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -991,7 +991,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document57]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_LED_SMD_0603.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_LED_SMD_0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1008,7 +1008,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document58]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_LED_SMD_0805.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_LED_SMD_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1025,7 +1025,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document59]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_LED_SMD_5050.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_LED_SMD_5050.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1042,7 +1042,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document60]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Logic_Buffer_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Logic_Buffer_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1059,7 +1059,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document61]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Logic_Logic Gate_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Logic_Logic Gate_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1076,7 +1076,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document62]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Logic_MUX_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Logic_MUX_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1093,7 +1093,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document63]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Logic_MUX_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Logic_MUX_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1110,7 +1110,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document64]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Logic_SIPO_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Logic_SIPO_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1127,7 +1127,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document65]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Mechanical_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Mechanical_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1144,7 +1144,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document66]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Mechanical_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Mechanical_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1161,7 +1161,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document67]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_1P1T_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_1P1T_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1178,7 +1178,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document68]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_1P1T_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_1P1T_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1195,7 +1195,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document69]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_1P1T_THT.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_1P1T_THT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1212,7 +1212,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document70]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_1P1T_THT.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_1P1T_THT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1229,7 +1229,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document71]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_1P2T_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_1P2T_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1246,7 +1246,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document72]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_2P1T_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_2P1T_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1263,7 +1263,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document73]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_2P2T_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_2P2T_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1280,7 +1280,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document74]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_DIP_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_DIP_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1297,7 +1297,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document75]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_DIP_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Mechanical_Switch_DIP_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1314,7 +1314,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document76]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Mechanical_THT.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Mechanical_THT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1331,7 +1331,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document77]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Mechanical_THT.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Mechanical_THT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1348,7 +1348,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document78]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Microcontrollers_Arduino.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Microcontrollers_Arduino.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1365,7 +1365,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document79]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Microcontrollers_Arduino.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Microcontrollers_Arduino.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1382,7 +1382,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document80]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Microcontrollers_AVR_AtMega_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Microcontrollers_AVR_AtMega_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1399,7 +1399,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document81]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Microcontrollers_ST_ARM_STM32.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Microcontrollers_ST_ARM_STM32.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1416,7 +1416,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document82]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Microcontrollers_ST_ARM_STM32.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Microcontrollers_ST_ARM_STM32.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1433,7 +1433,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document83]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Microcontrollers_ST_ARM_STM32F0.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Microcontrollers_ST_ARM_STM32F0.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1450,7 +1450,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document84]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Microcontrollers_ST_ARM_STM32F0.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Microcontrollers_ST_ARM_STM32F0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1467,7 +1467,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document85]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Microcontrollers_ST_ARM_STM32F4.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Microcontrollers_ST_ARM_STM32F4.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1484,7 +1484,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document86]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Microcontrollers_ST_ARM_STM32F4.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Microcontrollers_ST_ARM_STM32F4.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1501,7 +1501,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document87]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Opamp_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Opamp_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1518,7 +1518,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document88]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_0402.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_0402.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1535,7 +1535,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document89]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_0402.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_0402.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1552,7 +1552,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document90]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_0603.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_0603.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1569,7 +1569,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document91]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_0603.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1586,7 +1586,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document92]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_0805.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_0805.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1603,7 +1603,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document93]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_0805.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1620,7 +1620,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document94]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_1206.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_1206.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1637,7 +1637,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document95]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_1210.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_1210.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1654,7 +1654,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document96]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_1210.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_1210.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1671,7 +1671,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document97]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_ELCO_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_ELCO_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1688,7 +1688,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document98]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_Elco_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_Elco_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1705,7 +1705,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document99]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_Tantalum.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_Tantalum.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1722,7 +1722,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document100]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_Tantalum.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Capacitors_Tantalum.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1739,7 +1739,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document101]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Inductors_0402.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Inductors_0402.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1756,7 +1756,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document102]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Inductors_0402.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Inductors_0402.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1773,7 +1773,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document103]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Inductors_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Inductors_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1790,7 +1790,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document104]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_0402.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_0402.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1807,7 +1807,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document105]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_0402.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_0402.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1824,7 +1824,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document106]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_0603.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_0603.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1841,7 +1841,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document107]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_0603.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1858,7 +1858,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document108]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_0805.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_0805.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1875,7 +1875,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document109]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_0805.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1892,7 +1892,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document110]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_1206.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_1206.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1909,7 +1909,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document111]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_1206.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_1206.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1926,7 +1926,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document112]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_Networks_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_Networks_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1943,7 +1943,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document113]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_Networks_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_Networks_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1960,7 +1960,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document114]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_Pot_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_Pot_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1977,7 +1977,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document115]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_Pot_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Resistors_Pot_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1994,7 +1994,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document116]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Passives_Zener_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Passives_Zener_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2011,7 +2011,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document117]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_PSU_BOOST_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_PSU_BOOST_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2028,7 +2028,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document118]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_PSU_BUCK BOOST BUCKBOOST_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_PSU_BUCK BOOST BUCKBOOST_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2045,7 +2045,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document119]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_PSU_BUCK_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_PSU_BUCK_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2062,7 +2062,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document120]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_PSU_BUCKBOOST_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_PSU_BUCKBOOST_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2079,7 +2079,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document121]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_PSU_CAP INV_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_PSU_CAP INV_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2096,7 +2096,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document122]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_PSU_LDO_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_PSU_LDO_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2113,7 +2113,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document123]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_PSU_LDO_THT.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_PSU_LDO_THT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2130,7 +2130,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document124]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Reference_Crystal Oscillator_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Reference_Crystal Oscillator_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2147,7 +2147,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document125]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Reference_Crystal Oscillator_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Reference_Crystal Oscillator_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2164,7 +2164,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document126]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Reference_Crystal Oscillator_THT.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Reference_Crystal Oscillator_THT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2181,7 +2181,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document127]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Reference_Crystal Oscillator_THT.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Reference_Crystal Oscillator_THT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2198,7 +2198,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document128]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Screen_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Screen_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2215,7 +2215,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document129]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Screen_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Screen_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2232,7 +2232,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document130]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Silicon Switch_Silicon_Diode_SMD.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Silicon Switch_Silicon_Diode_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2249,7 +2249,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document131]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Silicon Switch_Silicon_Diode_SMD.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Silicon Switch_Silicon_Diode_SMD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2266,7 +2266,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document132]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Silicon Switch_Silicon_MOSFET_N-Channel.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Silicon Switch_Silicon_MOSFET_N-Channel.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2283,7 +2283,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document133]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_Silicon Switch_Silicon_MOSFET_N-Channel.SchLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_Silicon Switch_Silicon_MOSFET_N-Channel.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2300,7 +2300,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document134]
-DocumentPath=..\ALT0000 - Altium Library REV A\RVA_ST_SMD_Footprints.PcbLib
+DocumentPath=Z:\ALT0000 - Altium Library REV A\RVA_ST_SMD_Footprints.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

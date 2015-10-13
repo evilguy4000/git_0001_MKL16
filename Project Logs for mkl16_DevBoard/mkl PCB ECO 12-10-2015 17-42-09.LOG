@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Added Component: Designator=C4(0603C-GENERIC)
+Added Pin To Net: NetName=VSSA Pin=C4-1
+Added Pin To Net: NetName=VCC3.3 Pin=C4-2
+Change Net Name : Old Net Name=VCC3.3 New Net Name=VDD1
+Change Net Name : Old Net Name=VSSA New Net Name=VSS1
