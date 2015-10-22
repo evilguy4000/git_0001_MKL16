@@ -1,0 +1,2 @@
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Passives_Capacitors_1210_1210C-TBD New DesignItemId=Passives_Capacitors_0603_100NF-25V-X7R-TDK
+Change Component Footprint: Designator=C6 Old Footprint=1210C-GENERIC New Footprint=0603C-GENERIC

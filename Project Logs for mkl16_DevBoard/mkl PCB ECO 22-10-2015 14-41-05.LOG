@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VSS1 Pin=R6-2
+Change Component DesignItemId : Designator=R6 Old DesignItemId=Passives_Resistors_0603_0R New DesignItemId=Passives_Capacitors_1210_1210C-TBD
+Change Component Footprint: Designator=R6 Old Footprint=0603R-0R New Footprint=1210C-GENERIC

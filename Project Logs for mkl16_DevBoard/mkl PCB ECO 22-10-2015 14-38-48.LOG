@@ -1,0 +1,3 @@
+Added Component: Designator=R6(0603R-0R)
+Added Pin To Net: NetName=VSS1 Pin=R6-1
+Added Pin To Net: NetName=VSS1 Pin=R6-2

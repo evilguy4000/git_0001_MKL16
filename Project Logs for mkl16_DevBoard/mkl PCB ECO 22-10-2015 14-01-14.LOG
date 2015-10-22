@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=VSS1 Pin=P1-1
+Removed Pin From Net: NetName=VDDA Pin=P1-4
+Removed Pin From Net: NetName=VSS1 Pin=P2-2
+Removed Pin From Net: NetName=VDD1 Pin=P2-3
+Removed Pin From Net: NetName=SWD_IO Pin=P2-8
+Removed Pin From Net: NetName=SWD_CLK Pin=P2-11
+Added Component: Designator=P24(HDR1X24)
+Added Pin To Net: NetName=VSS1 Pin=P24-2
+Added Pin To Net: NetName=VDD1 Pin=P24-3
+Added Pin To Net: NetName=SWD_IO Pin=P24-8
+Added Pin To Net: NetName=SWD_CLK Pin=P24-11
+Added Pin To Net: NetName=NetP24_1 Pin=P24-1
+Added Pin To Net: NetName=NetP24_1 Pin=µc-32
+Added Net: Name=NetP24_1
+Added Pin To Net: NetName=NetP24_4 Pin=P24-4
+Added Pin To Net: NetName=NetP24_4 Pin=µc-29
+Added Net: Name=NetP24_4
+Added Pin To Net: NetName=NetP24_5 Pin=P24-5
+Added Pin To Net: NetName=NetP24_5 Pin=µc-28
+Added Net: Name=NetP24_5
+Added Pin To Net: NetName=NetP24_6 Pin=P24-6
+Added Pin To Net: NetName=NetP24_6 Pin=µc-27
+Added Net: Name=NetP24_6
+Added Pin To Net: NetName=NetP24_7 Pin=P24-7
+Added Pin To Net: NetName=NetP24_7 Pin=µc-26
+Added Net: Name=NetP24_7
+Added Pin To Net: NetName=NetP24_9 Pin=P24-9
+Added Pin To Net: NetName=NetP24_9 Pin=µc-24
+Added Net: Name=NetP24_9
+Added Pin To Net: NetName=NetP24_10 Pin=P24-10
+Added Pin To Net: NetName=NetP24_10 Pin=µc-23
+Added Net: Name=NetP24_10
+Added Pin To Net: NetName=NetP24_12 Pin=P24-12
+Added Pin To Net: NetName=NetP24_12 Pin=µc-21
+Added Net: Name=NetP24_12
+Added Pin To Net: NetName=NetP24_13 Pin=P24-13
+Added Pin To Net: NetName=NetP24_13 Pin=µc-20
+Added Net: Name=NetP24_13
+Added Pin To Net: NetName=NetP24_14 Pin=P24-14
+Added Pin To Net: NetName=NetP24_14 Pin=µc-19
+Added Net: Name=NetP24_14
+Added Pin To Net: NetName=NetP24_15 Pin=P24-15
+Added Pin To Net: NetName=NetP24_15 Pin=µc-18
+Added Net: Name=NetP24_15
+Added Pin To Net: NetName=NetP24_16 Pin=P24-16
+Added Pin To Net: NetName=NetP24_16 Pin=µc-17
+Added Net: Name=NetP24_16
+Added Pin To Net: NetName=NetP24_17 Pin=P24-17
+Added Pin To Net: NetName=NetP24_17 Pin=µc-15
+Added Net: Name=NetP24_17
+Added Pin To Net: NetName=NetP24_18 Pin=P24-18
+Added Pin To Net: NetName=NetP24_18 Pin=µc-14
+Added Net: Name=NetP24_18
+Added Pin To Net: NetName=NetP24_19 Pin=P24-19
+Added Pin To Net: NetName=NetP24_19 Pin=µc-12
+Added Net: Name=NetP24_19
+Added Pin To Net: NetName=NetP24_20 Pin=P24-20
+Added Pin To Net: NetName=NetP24_20 Pin=µc-11
+Added Net: Name=NetP24_20
+Added Pin To Net: NetName=NetP24_21 Pin=P24-21
+Added Pin To Net: NetName=NetP24_21 Pin=µc-10
+Added Net: Name=NetP24_21
+Added Pin To Net: NetName=NetP24_22 Pin=P24-22
+Added Pin To Net: NetName=NetP24_22 Pin=µc-9
+Added Net: Name=NetP24_22
+Added Pin To Net: NetName=NetP24_23 Pin=P24-23
+Added Pin To Net: NetName=NetP24_23 Pin=µc-8
+Added Net: Name=NetP24_23
+Added Pin To Net: NetName=NetP24_24 Pin=P24-24
+Added Pin To Net: NetName=NetP24_24 Pin=µc-7
+Added Net: Name=NetP24_24

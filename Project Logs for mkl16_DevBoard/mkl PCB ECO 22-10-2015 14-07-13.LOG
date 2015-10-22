@@ -1,0 +1,59 @@
+Removed Pin From Net: NetName=VSS1 Pin=P4-1
+Removed Pin From Net: NetName=VDD1 Pin=P4-2
+Added Component: Designator=P20(HDR1X20)
+Added Pin To Net: NetName=VSS1 Pin=P20-1
+Added Pin To Net: NetName=VDD1 Pin=P20-2
+Added Pin To Net: NetName=NetP20_3 Pin=P20-3
+Added Pin To Net: NetName=NetP20_3 Pin=µc-2
+Added Net: Name=NetP20_3
+Added Pin To Net: NetName=NetP20_4 Pin=P20-4
+Added Pin To Net: NetName=NetP20_4 Pin=µc-1
+Added Net: Name=NetP20_4
+Added Pin To Net: NetName=NetP20_5 Pin=P20-5
+Added Pin To Net: NetName=NetP20_5 Pin=µc-64
+Added Net: Name=NetP20_5
+Added Pin To Net: NetName=NetP20_6 Pin=P20-6
+Added Pin To Net: NetName=NetP20_6 Pin=µc-63
+Added Net: Name=NetP20_6
+Added Pin To Net: NetName=NetP20_7 Pin=P20-7
+Added Pin To Net: NetName=NetP20_7 Pin=µc-62
+Added Net: Name=NetP20_7
+Added Pin To Net: NetName=NetP20_8 Pin=P20-8
+Added Pin To Net: NetName=NetP20_8 Pin=µc-61
+Added Net: Name=NetP20_8
+Added Pin To Net: NetName=NetP20_9 Pin=P20-9
+Added Pin To Net: NetName=NetP20_9 Pin=µc-60
+Added Net: Name=NetP20_9
+Added Pin To Net: NetName=NetP20_10 Pin=P20-10
+Added Pin To Net: NetName=NetP20_10 Pin=µc-59
+Added Net: Name=NetP20_10
+Added Pin To Net: NetName=NetP20_11 Pin=P20-11
+Added Pin To Net: NetName=NetP20_11 Pin=µc-58
+Added Net: Name=NetP20_11
+Added Pin To Net: NetName=NetP20_12 Pin=P20-12
+Added Pin To Net: NetName=NetP20_12 Pin=µc-57
+Added Net: Name=NetP20_12
+Added Pin To Net: NetName=NetP20_13 Pin=P20-13
+Added Pin To Net: NetName=NetP20_13 Pin=µc-56
+Added Net: Name=NetP20_13
+Added Pin To Net: NetName=NetP20_14 Pin=P20-14
+Added Pin To Net: NetName=NetP20_14 Pin=µc-55
+Added Net: Name=NetP20_14
+Added Pin To Net: NetName=NetP20_15 Pin=P20-15
+Added Pin To Net: NetName=NetP20_15 Pin=µc-54
+Added Net: Name=NetP20_15
+Added Pin To Net: NetName=NetP20_16 Pin=P20-16
+Added Pin To Net: NetName=NetP20_16 Pin=µc-53
+Added Net: Name=NetP20_16
+Added Pin To Net: NetName=NetP20_17 Pin=P20-17
+Added Pin To Net: NetName=NetP20_17 Pin=µc-52
+Added Net: Name=NetP20_17
+Added Pin To Net: NetName=NetP20_18 Pin=P20-18
+Added Pin To Net: NetName=NetP20_18 Pin=µc-51
+Added Net: Name=NetP20_18
+Added Pin To Net: NetName=NetP20_19 Pin=P20-19
+Added Pin To Net: NetName=NetP20_19 Pin=µc-50
+Added Net: Name=NetP20_19
+Added Pin To Net: NetName=NetP20_20 Pin=P20-20
+Added Pin To Net: NetName=NetP20_20 Pin=µc-49
+Added Net: Name=NetP20_20
